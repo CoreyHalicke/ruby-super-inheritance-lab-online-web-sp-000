@@ -8,5 +8,5 @@ class ChattyStudent < Student
   def raise_hand
     binding.pry
     super
-
+end
 end
